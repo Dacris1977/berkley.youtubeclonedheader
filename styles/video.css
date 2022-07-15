@@ -1,0 +1,17 @@
+.image{
+  width: 300px;
+  display:block;
+}
+
+
+.video-preview{
+  width:300px;
+  display:inline-block;
+  vertical-align: top;
+  margin-right: 15px;
+}
+
+.profile-image{
+  width: 150px;
+  display: inline-block;
+}
